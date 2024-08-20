@@ -1,0 +1,40 @@
+.prob {
+    .tabl1 {
+        display: inline-block;
+        margin: 20px;
+        padding: 20px;
+        width: 100px;
+        height: 30px;
+        background-color: yellow;
+
+        /*окантовка*/
+        border: 2px solid;
+        border-color: black;
+            .sinopt1{
+            padding: 20px;
+            color:blue;
+            }
+        }
+        .tabl2 {
+            display: inline-block;
+            margin: 20px;
+            padding: 20px;
+            width: 100px;
+            height: 30px;
+            background-color: red;
+    
+            border: 2px solid;
+            border-color: black;
+             .sinopt2
+             {
+            padding: 20px;
+            color:green;
+             }
+        }
+}
+
+
+
+  
+    
+
